@@ -1,1 +1,1 @@
-Brain TUmor Detection
+Brain Tumor Detection
